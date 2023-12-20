@@ -1,0 +1,7 @@
+src/main/java/frc/robot/BuildConstants.java
+**/*.jar
+bin
+build
+gradle
+.gradle
+.vscode
