@@ -1,0 +1,9 @@
+{
+  "NTProvider": {
+    "types": {
+      "/AdvantageKit/RealOutputs/RealOutputs/": "Mechanism2d",
+      "/AdvantageKit/RealOutputs/RobotVisualization": "Mechanism2d",
+      "/FMSInfo": "FMSInfo"
+    }
+  }
+}
